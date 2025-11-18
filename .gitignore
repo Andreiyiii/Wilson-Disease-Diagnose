@@ -1,2 +1,3 @@
 .venv
 /data/Wilson_disease_dataset.csv
+__pycache__
